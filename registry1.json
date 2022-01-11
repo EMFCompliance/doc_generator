@@ -1,0 +1,38 @@
+{
+    "registry": [
+        {
+            "documents": [
+                {
+                    "HS100": "main"
+                },
+                {
+                    "HS200": "sub"
+                },
+                {
+                    "HS300": "dub"
+                },
+                {
+                    "HS400": "int"
+                },
+                {
+                    "HS500": "str"
+                },
+                {
+                    "HS500": "str"
+                }
+            ],
+            "HS500": "str"
+        },
+        {
+            "people": [
+                {
+                    "name": "john"
+                },
+                {
+                    "name": "david"
+                }
+            ],
+            "HS500": "str"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{ "documents" :
+	[
+		{"HS_100" : [
+			{"doc_cat": "HS100", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }, 
+			{"doc_cat": "HS100", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }, 
+			{"doc_cat": "HS100", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" },
+			{"doc_cat": "HS100", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }
+		]},
+
+		{"HS_200" : [
+			{"doc_cat": "HS200", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }, 
+			{"doc_cat": "HS201", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }, 
+			{"doc_cat": "HS202", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" },
+			{"doc_cat": "HS203", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }
+		]}, 
+
+		{"HS_300" : [
+			{"doc_cat": "HS300", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }, 
+			{"doc_cat": "HS301", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }, 
+			{"doc_cat": "HS302", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" },
+			{"doc_cat": "HS303","doc_name" : "Hazardous Waste Manifest", "ft": "docx" }
+		]}, 
+
+		{"HS_400" : [
+			{"doc_cat": "HS400", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }, 
+			{"doc_cat": "HS401", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }, 
+			{"doc_cat": "HS402", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" },
+			{"doc_cat": "HS403", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }
+		]}, 
+
+		{"HS_500" : [
+			{"doc_cat": "HS500", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }, 
+			{"doc_cat": "HS501", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }, 
+			{"doc_cat": "HS502", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" },
+			{"doc_cat": "HS503", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }
+		]}, 
+
+		{"HS_600" : [
+			{"doc_cat": "HS600", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }
+		]}, 
+
+		{"HS_700" : [
+			{"doc_cat": "HS700", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }, 
+			{"doc_cat": "HS701", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }
+		]}, 
+
+		{"HS_800" : [
+			{"doc_cat": "HS800", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }, 
+			{"doc_cat": "HS801", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }, 
+			{"doc_cat": "HS802", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }
+		]},  
+
+		{"HS_900" : [
+			{"doc_cat": "HS900", "doc_name" : "Hazardous Waste Manifest", "ft": "docx" }
+		]}
+	]
+		}
+
+
+
+
+
+
+
+
+
+
+
+
