@@ -1,0 +1,330 @@
+{
+    "documents": [
+        {
+            "HS_100": [
+                {
+                    "doc_cat": "HS-100",
+                    "doc_name": "Hazardous Waste Management Plan",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-101",
+                    "doc_name": "Total Organics Management Plan",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-102",
+                    "doc_name": "SWPPP 540 Spectrum Cr",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-103",
+                    "doc_name": "SWPPP 3430 Galaxy Pl",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-104",
+                    "doc_name": "SWPPP 3431 Galaxy Pl",
+                    "ft": "Latex source (tex)"
+                }
+            ]
+        },
+        {
+            "HS_200": [
+                {
+                    "doc_cat": "HS-200",
+                    "doc_name": "Injury Illness Prevention Program",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-201",
+                    "doc_name": "Safety Committee RAIl",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-202",
+                    "doc_name": "Hazard Communication Program",
+                    "ft": "tex"
+                },
+                {
+                    "doc_cat": "HS-203",
+                    "doc_name": "Hazard Assessment Checklist",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-204",
+                    "doc_name": "Hazard Assessment Inspection",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-205",
+                    "doc_name": "PPE Program",
+                    "ft": "tex"
+                },
+                {
+                    "doc_cat": "HS-206",
+                    "doc_name": "Respiratory Protection Program",
+                    "ft": "tex"
+                },
+                {
+                    "doc_cat": "HS-207",
+                    "doc_name": "First Aid Monthly Inspection",
+                    "ft": "xlsm"
+                },
+                {
+                    "doc_cat": "HS-208",
+                    "doc_name": "Injury Report Log",
+                    "ft": "xlsx"
+                },
+                {
+                    "doc_cat": "HS-209",
+                    "doc_name": "Fall Protection Program",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-211",
+                    "doc_name": "Medical Records Management Program",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-212",
+                    "doc_name": "Driver Safety Program",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-213",
+                    "doc_name": "Electrical Safety Program",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-214",
+                    "doc_name": "Fire Prevention Program",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-215",
+                    "doc_name": "Waste Analysis Plan",
+                    "ft": "tex"
+                },
+                {
+                    "doc_cat": "HS-217",
+                    "doc_name": "Hearing Conversation Program",
+                    "ft": "tex"
+                },
+                {
+                    "doc_cat": "HS-221",
+                    "doc_name": "New Technology Program",
+                    "ft": "tex"
+                }
+            ]
+        },
+        {
+            "HS_300": [
+                {
+                    "doc_cat": "HS-300",
+                    "doc_name": "Batch Treatment Tank Summary",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-301",
+                    "doc_name": "Chromium Reduction",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-302",
+                    "doc_name": "Acid or Alkali Neutralization",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-303",
+                    "doc_name": "Oxidation Reduction",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-304",
+                    "doc_name": "Recycling Program",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-305",
+                    "doc_name": "Metals Precipitation",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-306",
+                    "doc_name": "Recycling Program",
+                    "ft": "tex"
+                }
+            ]
+        },
+        {
+            "HS_400": [
+                {
+                    "doc_cat": "HS-400",
+                    "doc_name": "Procedure for Acetone Handling and Disposal",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-401",
+                    "doc_name": "Hazardous Waste Manifest Procedure",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-402",
+                    "doc_name": "Emergency Response Evacuation Procedure",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-403",
+                    "doc_name": "Operating Procedure for Spill Control(540 Spectrum)",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-404",
+                    "doc_name": "Operating Procedure for Spill Control(3430 Galaxy Pl)",
+                    "ft": "docx"
+                }
+            ]
+        },
+        {
+            "HS_500": [
+                {
+                    "doc_cat": "HS-500",
+                    "doc_name": "First Aid Monthly Inspection",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-501",
+                    "doc_name": "540 Spectrum Site Operation Plan",
+                    "ft": "tex"
+                }
+            ]
+        },
+        {
+            "HS_600": [
+                {
+                    "doc_cat": "HS-600",
+                    "doc_name": "VCAPCD Paint Log",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-601",
+                    "doc_name": "Methylene Chloride Log",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-602",
+                    "doc_name": "Paint Usage Log",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-603",
+                    "doc_name": "Daily Berm Inspection",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-604",
+                    "doc_name": "Smoke Screen Testing",
+                    "ft": "xlsx"
+                },
+                {
+                    "doc_cat": "HS-605",
+                    "doc_name": "Acetone Testing Log",
+                    "ft": "xlsx"
+                },
+                {
+                    "doc_cat": "HS-606",
+                    "doc_name": "Fire Extinguisher Monthly Inspection",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-607",
+                    "doc_name": "Hazardous Waste Storage Weekly Inspection",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-608",
+                    "doc_name": "Berm Daily Inspection",
+                    "ft": "xlsx"
+                },
+                {
+                    "doc_cat": "HS-609",
+                    "doc_name": "Acetone Recyling Log",
+                    "ft": "xlsx"
+                },
+                {
+                    "doc_cat": "HS-610",
+                    "doc_name": "Acetone Rag Disposal Log",
+                    "ft": "xlsx"
+                },
+                {
+                    "doc_cat": "HS-611",
+                    "doc_name": "",
+                    "ft": "Excel (xlsx)"
+                },
+                {
+                    "doc_cat": "HS-612",
+                    "doc_name": "",
+                    "ft": "Excel (xlsx)"
+                },
+                {
+                    "doc_cat": "HS-613",
+                    "doc_name": "Sewer Discharge Log",
+                    "ft": "Excel (xlsx)"
+                },
+                {
+                    "doc_cat": "HS-614",
+                    "doc_name": "Evaporator Log",
+                    "ft": "Excel (xlsx)"
+                }
+            ]
+        },
+        {
+            "HS_700": [
+                {
+                    "doc_cat": "HS-700",
+                    "doc_name": "Hazardous Waste Manifest Log",
+                    "ft": "xlsx"
+                },
+                {
+                    "doc_cat": "HS-701",
+                    "doc_name": "Hazardous Material Inventory",
+                    "ft": "xlsx"
+                }
+            ]
+        },
+        {
+            "HS_800": [
+                {
+                    "doc_cat": "HS-800",
+                    "doc_name": "Hazardous Waste Manifest",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-801",
+                    "doc_name": "Hazardous Waste Manifest",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-802",
+                    "doc_name": "Hazardous Waste Manifest",
+                    "ft": "docx"
+                },
+                {
+                    "doc_cat": "HS-803",
+                    "doc_name": "Hello",
+                    "ft": "Excel (xlsx)"
+                }
+            ]
+        },
+        {
+            "HS_900": [
+                {
+                    "doc_cat": "HS-900",
+                    "doc_name": "Hazardous Waste Manifest",
+                    "ft": "docx"
+                }
+            ]
+        }
+    ]
+}
